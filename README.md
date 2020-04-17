@@ -41,8 +41,21 @@ Lineage OS是国外民间大神开发的基于原生Android第三方OS，其v14�
     * SuperSU给权限
     * 按照app内指示将验证网络的原谷歌服务器切换
 
-接下来，就可以开心的玩耍了。可以看到在安装了QQ HD，腾讯视频，谷歌中文输入法下，内存占用0.98GB/1.7GB，但在使用内存占用严重的APP（UC浏览器）时还是十分卡顿的，毕竟内存限制了软件的狂放-_-！
+接下来，就可以开心的玩耍了。可以看到在安装了豌豆荚，QQ HD，腾讯视频，谷歌中文输入法下，内存占用0.98GB/1.7GB，但在使用内存占用严重的APP（UC浏览器）时还是十分卡顿的，毕竟内存限制了软件的狂放-_-！
 
+### 效果展示
+![主界面1](lineage14/showimg/index1.png)
+主界面可以看到是原生的Android系统，还是十分简洁的。  
+
+![主界面2](lineage14/showimg/index2.png)
+现在很多的音乐软件下载的音乐都是加密的了，需要自家播放器，SD卡内只剩下这么一首歌23333  
+
+![🔋电池用量](lineage14/showimg/battery.png)
+昨晚刷机成功，看了2集柯南，然后睡醒到现在11：20，还剩42%，待机能力大幅提升！！！  
+原本的Android4.4+MIUI9实在吃不消，堪称吃电小老虎  
+
+![系统信息](lineage14/showimg/info.png)
+系统信息下可以看到，Android版本为7.1.2，很多软件都能装啦！不过还是要爱惜一点，毕竟老年机了，还是不要符合太大，好好做好“买后爱奇艺”就好了，虽然本人只看B站和腾讯视频(笑)
 
 ### 参考文献
 1. [xda论坛-LineageOS贴](https://forum.xda-developers.com/mi-pad/development/unofficial-lineageos-14-1-xiami-mipad-t3557616)
