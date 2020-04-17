@@ -12,7 +12,7 @@ Lineage OS是国外民间大神开发的基于原生Android第三方OS，其v14�
 > 第三方Recovery签名版：[miuies_TWRP_mocha_2.7.1_signed](lineage14/mipadrecovery/miuies_TWRP_mocha_2.7.1_signed.zip)  
 > Recovery新版本：[twrp_3.1.0_mocha_cn.zip](lineage14/mipadrecovery/twrp_3.1.0_mocha_cn.zip)  
 > 合并分区工具：[Repartition_MI_Pad_1_2GB_zardMi3](lineage14/分区工具/Repartition_MI_Pad_1_2GB_zardMi3.zip)  
-> OS：[lineage-14.1-20170911-UNOFFICIAL-mocha](lineage14/lineage-14.1-20170911-UNOFFICIAL-mocha.zip) PS:[该文件过大，请在网盘下载](https://pan.baidu.com/s/1qXU7DVm) 密码:[hide] grck[/hide]  
+> OS：lineage-14.1-20170911-UNOFFICIAL-mocha PS:[该文件过大，请在网盘下载](https://pan.baidu.com/s/1qXU7DVm) 密码:[hide] grck[/hide]  
 > Root工具：[SuperSU](lineage14/root-solve-net/SR5-SuperSU-v2.82-SR5-20171001224502.zip)  
 > 解决无法连接网络：[captivemgr](lineage14/root-solve-net/captivemgr-release-2.4.apk)
 
