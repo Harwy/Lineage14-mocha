@@ -52,10 +52,10 @@ Lineage OS是国外民间大神开发的基于原生Android第三方OS，其v14�
 
 ![🔋电池用量](lineage14/showimg/battery.png)
 昨晚刷机成功，看了2集柯南，然后睡醒到现在11：20，还剩42%，待机能力大幅提升！！！  
-原本的Android4.4+MIUI9实在吃不消，堪称吃电小老虎  
+原本的Android4.4+MIUI9实在吃不消，堪称吃电小老虎，一整天待机就待没了  
 
 ![系统信息](lineage14/showimg/info.png)
-系统信息下可以看到，Android版本为7.1.2，很多软件都能装啦！不过还是要爱惜一点，毕竟老年机了，还是不要符合太大，好好做好“买后爱奇艺”就好了，虽然本人只看B站和腾讯视频(笑)
+系统信息下可以看到，Android版本为7.1.2，很多软件都能装啦！不过还是要爱惜一点，毕竟老年机了，还是不要要求太高，好好做好“买后爱奇艺”就好了，虽然本人只看B站和腾讯视频(笑)
 
 ### 参考文献
 1. [xda论坛-LineageOS贴](https://forum.xda-developers.com/mi-pad/development/unofficial-lineageos-14-1-xiami-mipad-t3557616)
